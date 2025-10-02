@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lpNWN1cTM1dnFtM29kdTljNjhwM2IwbXMxeXdsM2NqZm4xYmZ6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lpNWN1cTM1dnFtM29kdTljNjhwM2IwbXMxeXdsM2NqZm4xYmZ6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -23,7 +23,7 @@
 
 ### 🌱 Hi, I'm Samia ✨  
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhmeHBqejAxMjc1YXd0M3A0OGoyd3J6ODRyZzI3NWNucmh0Z2duNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="500" alt="Girl coding"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhmeHBqejAxMjc1YXd0M3A0OGoyd3J6ODRyZzI3NWNucmh0Z2duNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="400" alt="Girl coding"/>
 </div>
 
 </div>
