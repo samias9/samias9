@@ -47,15 +47,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTIzY2M5amJ6MGVheDZ1dXZsb3N3cHl5Z3I1dms5NjkydnlmcGRlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZxMnE4dGJnczdhNG9rZG8xbWhia3hjNjlzM3dwZHRkY3g0cTJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" title="Java" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXoxZHgxZnNvYnltMWJvYTQ2aW85bWtnbGl6OW1kam1sd3RtY3l0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGthkhUvGgOit7Y9i/giphy.gif" title="Kotlin" alt="Vuejs" width="40" height="40"/>&nbsp;
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3I5N3EwNGNsMzY3dWZteGNubm1vYXh2aG85cTNueG12cjVyaXM0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
   <!-- Web & App Development -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
 
   <!-- Databases -->
@@ -63,7 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
   <!-- AI / Data Science -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWN2bzZnOWNvYmt5MnVnOXNjZHVxOWY5cGlxN3VqZnUzdWZicTh1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.gif" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
 
   <!-- Cloud & Tools -->
@@ -71,7 +67,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZxcW5ybmIwaXZ4YXJjdWVnNDdxYnA0ZDVrN29xbWk5OXhobTB6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.gif" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 
