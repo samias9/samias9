@@ -22,10 +22,7 @@
 
 ### 🌱 Hi, I'm Samia ✨  
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Girl coding"/>
-</div>
-<div align="center">
-  <img src="assets/girl-coding.png" width="600" height="300" alt="Girl coding"/>
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhmeHBqejAxMjc1YXd0M3A0OGoyd3J6ODRyZzI3NWNucmh0Z2duNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)" width="600" height="300" alt="Girl coding"/>
 </div>
 
 </div>
