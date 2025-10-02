@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lpNWN1cTM1dnFtM29kdTljNjhwM2IwbXMxeXdsM2NqZm4xYmZ6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="120"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNjcjB2M3pieGJyaGlnNGFrdWV1bmlvOHU4azhwZHprcHA5M2d1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="120"/>
 </div>
 
 <div id="badges" align="center">
@@ -44,9 +44,9 @@
 
 <div>
   <!-- Programming Languages -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTIzY2M5amJ6MGVheDZ1dXZsb3N3cHl5Z3I1dms5NjkydnlmcGRlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZxMnE4dGJnczdhNG9rZG8xbWhia3hjNjlzM3dwZHRkY3g0cTJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" title="Java" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXoxZHgxZnNvYnltMWJvYTQ2aW85bWtnbGl6OW1kam1sd3RtY3l0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgGthkhUvGgOit7Y9i/giphy.gif" title="Kotlin" alt="Vuejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
